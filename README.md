@@ -43,6 +43,7 @@ This is a personal project series based on the lessons by @anonystick ([https://
 ### Usage
 
 - Demonstrates advanced user authentication with refresh token mechanisms and token verification.
+- Handle a Token Compromised by a Hacker
 - MongoDB Connection: `mongodb://localhost:27017`
 
 ### Postman Examples
