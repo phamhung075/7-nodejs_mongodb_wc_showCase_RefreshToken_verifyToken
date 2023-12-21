@@ -60,3 +60,4 @@ x-api-key: [API_KEY]
 x-client-id: [SHOP_ID]
 x-rtoken-id: [REFRESH_TOKEN]
 ```
+For more detailed examples, refer to see [README.png](./help07.png).
